@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59d41de5.css",
+    "main.js": "/static/js/main.8b9fc21c.js",
+    "static/media/IconFailed.svg": "/static/media/IconFailed.c0e73bf13fcf055e49a15554e618f0db.svg",
+    "static/media/IconSuccess.svg": "/static/media/IconSuccess.dc9a2bd3b729e30398f070ead9c3e358.svg",
+    "static/media/Vector.svg": "/static/media/Vector.adb28c1ea5c60bdbecf7ece7150d6f3c.svg",
+    "static/media/deleteIcon.svg": "/static/media/deleteIcon.17570520a518e874fa098d378ebdd5be.svg",
+    "index.html": "/index.html",
+    "static/media/DotChecked.svg": "/static/media/DotChecked.c2c0bf3aafbdbdacef6b3b595c6c279b.svg",
+    "static/media/Dot.svg": "/static/media/Dot.eb95d399658edfdf0560987467c1d058.svg",
+    "static/media/Dotgray.svg": "/static/media/Dotgray.f2778157a7362c65deb94258f3ac65f9.svg",
+    "main.59d41de5.css.map": "/static/css/main.59d41de5.css.map",
+    "main.8b9fc21c.js.map": "/static/js/main.8b9fc21c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59d41de5.css",
+    "static/js/main.8b9fc21c.js"
+  ]
+}
